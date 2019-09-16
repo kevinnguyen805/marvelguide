@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marvelguide/static/css/main.2cce8147.chunk.css",
+    "main.js": "/marvelguide/static/js/main.7f7ec3c2.chunk.js",
+    "main.js.map": "/marvelguide/static/js/main.7f7ec3c2.chunk.js.map",
+    "runtime~main.js": "/marvelguide/static/js/runtime~main.6f39636d.js",
+    "runtime~main.js.map": "/marvelguide/static/js/runtime~main.6f39636d.js.map",
+    "static/js/2.4736327b.chunk.js": "/marvelguide/static/js/2.4736327b.chunk.js",
+    "static/js/2.4736327b.chunk.js.map": "/marvelguide/static/js/2.4736327b.chunk.js.map",
+    "index.html": "/marvelguide/index.html",
+    "precache-manifest.f1f7b9b1b34fc2c4acbf2600ea8238bb.js": "/marvelguide/precache-manifest.f1f7b9b1b34fc2c4acbf2600ea8238bb.js",
+    "service-worker.js": "/marvelguide/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/marvelguide/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/marvelguide/static/media/logo.5d5d9eef.svg"
+  }
+}
